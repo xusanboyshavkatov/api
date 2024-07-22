@@ -1,0 +1,101 @@
+{
+    "computers":[
+      {
+        "id":1,
+        "name": "Acer Predator",
+        "img": "https://images.idgesg.net/images/article/2018/03/acer-predator-helios-300-1-100753274-large.jpg?auto=webp&quality=85,70",
+        "CPU": "Core i7",
+        "GPU": "GTX 1060 6GB",
+        "SSD": "256GB",
+        "HDD": "512GB",
+        "RAM": "DDR4 16GB",
+        "screen": "FullHD 144Hz",
+        "year": 2017
+      },
+      {
+        "id":2,
+        "name": "Acer Nitro7",
+        "img": "https://media.hitekno.com/thumbs/2019/04/12/90282-laptop-gaming-acer-nitro-7/730x480-img-90282-laptop-gaming-acer-nitro-7.jpg",
+        "CPU": "Core i5",
+        "GPU": "GTX 1050 4GB",
+        "SSD": "512GB",
+        "HDD": "1TB",
+        "RAM": "DDR4 8GB",
+        "screen": "FullHD 144Hz",
+        "year": 2019
+      },
+      {
+        "id":3,
+        "name": "Asus Rog Gaming",
+        "img": "https://www.cnet.com/a/img/resize/42e4e1885806d9866c487c4ea545478ba21e4aed/hub/2023/08/21/c3af5f24-67f2-4331-b5dd-2d1ece131915/asus-rog-strix-g15-2022-4476.jpg?auto=webp&width=1200",
+        "CPU": "Core i7",
+        "GPU": "RTX 2060 6GB",
+        "SSD": "512GB",
+        "HDD": "512GB",
+        "RAM": "DDR5 16GB",
+        "screen": "FullHD 165Hz",
+        "year": 2019
+      }
+            {
+        "id":4,
+        "name": "Asus Rog Gaming",
+        "img": "https://www.cnet.com/a/img/resize/42e4e1885806d9866c487c4ea545478ba21e4aed/hub/2023/08/21/c3af5f24-67f2-4331-b5dd-2d1ece131915/asus-rog-strix-g15-2022-4476.jpg?auto=webp&width=1200",
+        "CPU": "Core i7",
+        "GPU": "RTX 2060 6GB",
+        "SSD": "512GB",
+        "HDD": "512GB",
+        "RAM": "DDR5 16GB",
+        "screen": "FullHD 165Hz",
+        "year": 2019
+      }
+      {
+        "id":5,
+        "name": "Asus Rog Gaming",
+        "img": "https://www.cnet.com/a/img/resize/42e4e1885806d9866c487c4ea545478ba21e4aed/hub/2023/08/21/c3af5f24-67f2-4331-b5dd-2d1ece131915/asus-rog-strix-g15-2022-4476.jpg?auto=webp&width=1200",
+        "CPU": "Core i7",
+        "GPU": "RTX 2060 6GB",
+        "SSD": "512GB",
+        "HDD": "512GB",
+        "RAM": "DDR5 16GB",
+        "screen": "FullHD 165Hz",
+        "year": 2019
+      }
+      {
+        "id":6,
+        "name": "Asus Rog Gaming",
+        "img": "https://www.cnet.com/a/img/resize/42e4e1885806d9866c487c4ea545478ba21e4aed/hub/2023/08/21/c3af5f24-67f2-4331-b5dd-2d1ece131915/asus-rog-strix-g15-2022-4476.jpg?auto=webp&width=1200",
+        "CPU": "Core i7",
+        "GPU": "RTX 2060 6GB",
+        "SSD": "512GB",
+        "HDD": "512GB",
+        "RAM": "DDR5 16GB",
+        "screen": "FullHD 165Hz",
+        "year": 2019
+      }
+      {
+        "id":7,
+        "name": "Asus Rog Gaming",
+        "img": "https://www.cnet.com/a/img/resize/42e4e1885806d9866c487c4ea545478ba21e4aed/hub/2023/08/21/c3af5f24-67f2-4331-b5dd-2d1ece131915/asus-rog-strix-g15-2022-4476.jpg?auto=webp&width=1200",
+        "CPU": "Core i7",
+        "GPU": "RTX 2060 6GB",
+        "SSD": "512GB",
+        "HDD": "512GB",
+        "RAM": "DDR5 16GB",
+        "screen": "FullHD 165Hz",
+        "year": 2019
+      }
+      {
+        "id":8,
+        "name": "Asus Rog Gaming",
+        "img": "https://www.cnet.com/a/img/resize/42e4e1885806d9866c487c4ea545478ba21e4aed/hub/2023/08/21/c3af5f24-67f2-4331-b5dd-2d1ece131915/asus-rog-strix-g15-2022-4476.jpg?auto=webp&width=1200",
+        "CPU": "Core i7",
+        "GPU": "RTX 2060 6GB",
+        "SSD": "512GB",
+        "HDD": "512GB",
+        "RAM": "DDR5 16GB",
+        "screen": "FullHD 165Hz",
+        "year": 2019
+      }
+        
+    ]
+  }
